@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQHQzCkhsp4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naveenl1\\Desktop\\POC\\AI\\financial-data-extraction-dotnet-ai\\financial-data-extraction-dotnet-ai.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naveenl1\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\naveenl1\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
